@@ -1,16 +1,7 @@
 # live_location
 
-A new Flutter project.
+Create an app which tracks live location co-ordinates and if user wants, he can view his live location on google maps
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/201128889-696b0658-fdfb-4b29-bc3d-01b249107715.jpg">    <img width="300" height="600" src="https://user-images.githubusercontent.com/113745196/201128953-fa123b44-fba9-4d7c-ad30-7be08f9c3c55.jpg">
